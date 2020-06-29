@@ -1,0 +1,12 @@
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\bin\Debug\Yatzy.exe.config
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\bin\Debug\Yatzy.exe
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\bin\Debug\Yatzy.pdb
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\obj\Debug\Yatzy.csprojAssemblyReference.cache
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\obj\Debug\Yatzy.exe
+C:\Users\kenne\OneDrive - AARHUS TECH\Forberedelse\c#\OOProg-master\General\MiniProjs\Unsolved\Yatzy\Yatzy\obj\Debug\Yatzy.pdb
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\bin\Debug\Yatzy.exe.config
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\bin\Debug\Yatzy.exe
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\bin\Debug\Yatzy.pdb
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\obj\Debug\Yatzy.csprojAssemblyReference.cache
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\obj\Debug\Yatzy.exe
+C:\Users\emils\OneDrive\Dokumenter\EUX Programmering\H1\Yatzy\Yatzy\obj\Debug\Yatzy.pdb
